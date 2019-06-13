@@ -36,3 +36,7 @@ If the test suite passes, you'll be ready to run the app in a local server:
 ```
 $ rails server
 ```
+
+## Heroku
+
+git push heroku static-pages:master
